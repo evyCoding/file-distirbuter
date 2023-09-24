@@ -19,7 +19,6 @@ public:
 	MyStructure(std::string ste);
 	std::vector<std::string> getNm();
 	void dister();
-	std::string remove(std::string ste);
 } MyStructure;
 
 #endif // FILESDEB_H
